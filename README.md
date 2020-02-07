@@ -23,28 +23,28 @@ I worked on this game in high school with a group of 5 other people, who each of
 
 At the time that we made this game, we were completely new to game development in general, so we did not realize the benefits of using a well-designed game engine such as Unity. Since we had experience in Java, we decided to make our own game engine using Eclipse. We created a user interface that allowed us to input a spritesheet and split it into individual sprites. This allowed us to design a full spritesheet PNG in Photoshop and split the sprites ourselves after accessing the game file. Then, we designed a feature that allowed us to drag and drop these individual sprites onto a "level," which was the section of the game that was loaded at the time. These sections were uniquely saved, so we also were able to make a system that allowed us to get from one level to the next once the player reached a certain point of a level. Finally, our engine allowed us to package our system into a JAR file, and play it with an EXE. Here is an example drag-and-drop using our engine:
 
-<img src:"./images/engine_demo.gif">
+<img src="./images/engine_demo.gif">
 
 Our game worked on a tick-by-tick basis, meaning that every second that passed in the internal clock of the system, a certain number of in-game ticks were processed. Using this system, we could have interactions between characters and objects and also allowed us to animate our sprites by displaying a new sprite on the exact position of the existing one after a certain small interval, such as 0.10 seconds. Here is an example of a sprite animation:
 
-<img src:"./images/proletariat_demo_walk.gif">
+<img src="./images/proletariat_demo_walk.gif">
 
 As mentioned earlier, we were able to allow for interactions between sprites, so we could make sprites attack and be attacked. As far as combat goes, we were not able to make a functioning health system, so any sprite, including the player character, would die when hit just once. However, we were able to make a basic AI system for our enemies. Some enemies would just walk around randomly, but some enemies would detect the existence of the player character and move towards them, then attack once they are in a given range. Here is an example of the same sprite as earlier in an attack animation:
 
-<img src:"./images/proletariat_demo_attack.gif">
+<img src="./images/proletariat_demo_attack.gif">
 
 # Game Creation (Photoshop)
 
 Since this was our first game development experience, we did not know the most functional way to create good art. However, we made a nice system of creating art where we first would theorize the entirety of what we were going to draw first. Here is an example of planning an enemy for a certain dungeon:
 
-<img src:"./images/enemy_sample.png">
+<img src="./images/enemy_sample.png">
 
 Once we had planned out everything about the character, we then drew physical concept art for the character. We thought about how the character would act like if they were in the real world, and we also considered what emotions we wanted that character to evoke in the player. We spent the majority of the time in this phase, so that we could consider all the possibilities we could think of for each character. Here is an example of concept art for a character:
 
-<img src:"./images/concept_art_example.png">
+<img src="./images/concept_art_example.png">
 
 After we finalized what we wanted the character to look like, we went into Photoshop and began drawing it. At this point in time, we were all very new to art, so we did not know about choosing a specific color palette or determining which art style fits our game well. Instead, we just tried out random things with pixel art until we found something that we could see going into the real game. Examples of animations of our finalized pixel art can be seen above in the Game Creation (Java) category. We even designed an entire UI system for our game, although we were not able to port any of it into the game engine. Here is an example of a custom health bar animation:
 
-<img src:"./images/health_bar.gif">
+<img src="./images/health_bar.gif">
 
 The entire collection of art we drew for the game can be found in the ./art folder linked above in this repo. All the files for the game engine can be found in the ./code folder.
