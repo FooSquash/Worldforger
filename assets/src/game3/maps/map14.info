@@ -1,0 +1,32 @@
+Flower_Field_Tile -500.0 300.0 100 100 false
+Flower_Field_Tile -500.0 -200.0 100 100 false
+Flower_Field_Tile -500.0 -100.0 100 100 false
+Flower_Field_Tile -500.0 0.0 100 100 false
+Flower_Field_Tile -500.0 100.0 100 100 false
+Flower_Field_Tile -500.0 200.0 100 100 false
+Flower_Field_Tile -400.0 300.0 100 100 false
+Flower_Field_Tile -400.0 -200.0 100 100 false
+BufferedImage@4d5cfa11: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -400.0 200.0 41 63 false
+BufferedImage@2bd932a5: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -400.0 100.0 41 63 false
+Flower_Field_Tile -300.0 300.0 100 100 false
+Flower_Field_Tile -300.0 -200.0 100 100 false
+BufferedImage@78446f75: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -300.0 200.0 41 63 false
+BufferedImage@67feceac: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -300.0 100.0 41 63 false
+Flower_Field_Tile -200.0 300.0 100 100 false
+Flower_Field_Tile -200.0 -200.0 100 100 false
+BufferedImage@60ea73a2: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -200.0 200.0 41 63 false
+BufferedImage@d1fb1ec: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -200.0 100.0 41 63 false
+Flower_Field_Tile -100.0 300.0 100 100 false
+Flower_Field_Tile -100.0 -200.0 100 100 false
+BufferedImage@1e66c59a: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -100.0 200.0 41 63 false
+BufferedImage@1e92f989: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 -100.0 100.0 41 63 false
+Flower_Field_Tile 0.0 300.0 100 100 false
+Flower_Field_Tile 0.0 -200.0 100 100 false
+BufferedImage@79e7b747: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 0.0 200.0 41 63 false
+BufferedImage@3d8f90fa: type = 6 ColorModel: #pixelBits = 32 numComponents = 4 color space = java.awt.color.ICC_ColorSpace@14514713 transparency = 3 has alpha = true isAlphaPre = false ByteInterleavedRaster: width = 2 height = 2 #numDataElements 4 dataOff[0] = 59 0.0 100.0 41 63 false
+Flower_Field_Tile 100.0 300.0 100 100 false
+Flower_Field_Tile 100.0 200.0 100 100 false
+Flower_Field_Tile 100.0 100.0 100 100 false
+Flower_Field_Tile 100.0 0.0 100 100 false
+Flower_Field_Tile 100.0 -100.0 100 100 false
+Flower_Field_Tile 100.0 -200.0 100 100 false
